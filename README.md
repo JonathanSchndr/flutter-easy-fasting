@@ -2,6 +2,10 @@
 
 My first app with Flutter. It's not a big app, but it was my first attempts to develop an app with Flutter. Maybe it will help you lose some weight after the holidays. :)
 
+## Screenshots
+
+<img src="/screenshots/main.png" width="300">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
